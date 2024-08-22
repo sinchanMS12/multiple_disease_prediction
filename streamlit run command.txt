@@ -1,0 +1,1 @@
+streamlit run "C:\Users\user\OneDrive\Desktop\multiple-disease\multi.py.py"
