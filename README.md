@@ -2,4 +2,5 @@
 Implemented a real-world project from the practice projects
 
 # Technologies used
-s
+Web Application: streamlit
+pickle
